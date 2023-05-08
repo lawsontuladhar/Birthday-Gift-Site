@@ -40,12 +40,13 @@ p {
 #all {
   display: flex;
   flex-direction: column;
-  justify-content: ;
+
   align-items: center;
 }
 
 .gift {
   margin-top: 20px;
+  margin-bottom: 0px;
 }
 
 .h2happy {
